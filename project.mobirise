@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "3rd Year Bachelor - NL",
-    "currentPage": "contact.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -26,7 +26,7 @@
     "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-96119570-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>",
     "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
     "versionFirst": "3.12.1",
-    "uniqCompNum": 45,
+    "uniqCompNum": 48,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -164,7 +164,7 @@
             "showButtons": false
           },
           "title": "<span style=\"font-weight: normal;\">Paulien Wellens&nbsp;</span>",
-          "text": "Glas en Keramiek",
+          "text": "<span style=\"font-style: normal;\">Glas en Keramiek</span>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         }
       ]
@@ -1952,7 +1952,7 @@
           "_anchor": "header3-16",
           "_params": {
             "paddingTop": "5",
-            "paddingBottom": 1,
+            "paddingBottom": "1",
             "bgColor": "#fff",
             "showMeta": true
           },
@@ -2270,7 +2270,7 @@
                 "active": true
               }
             ],
-            "spacing": 1,
+            "spacing": "1",
             "showText": false,
             "filter": true,
             "bgColor": "fff",
@@ -2279,6 +2279,152 @@
             "showBullets": true
           },
           "_anchor": "gallery4-15",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#c1c1c1"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1b",
+          "_params": {
+            "paddingTop": "5",
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "<span style=\"font-weight: normal;\">2de Semester, 3de BA Jaar:</span> <i>Let's Play a Game</i>",
+          "meta": "Gent, Belgie"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery4",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": "3",
+            "images": [
+              {
+                "tags": "Volledige Werk",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/lpag-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/lpag.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "#1",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/lpag-1-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/lpag-1.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "#1",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/lpag-2-800x552.jpg",
+                "image": "@PROJECT_PATH@/assets/images/lpag-2.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "#2",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/lpag-3-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/lpag-3.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "#2",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/lpag-4-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/lpag-4.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "#3",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/lpag-5-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/lpag-5.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "#3",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/lpag-6-800x574.jpg",
+                "image": "@PROJECT_PATH@/assets/images/lpag-6.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "#4",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/lpag-7-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/lpag-7.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "#4",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/lpag-8-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/lpag-8.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Volledige Werk",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/lpag-9-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/lpag-9.jpg",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ],
+            "spacing": 1,
+            "showText": false,
+            "filter": true,
+            "bgColor": "fff",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery4-19",
           "articleLayout": false,
           "allItem": "All"
         }
@@ -2571,7 +2717,7 @@
               "name": {
                 "title": "Name",
                 "visible": true,
-                "customTitle": "Name*"
+                "customTitle": "Naam*"
               },
               "email": {
                 "title": "Email",
@@ -2585,7 +2731,7 @@
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Message"
+                "customTitle": "Vraag"
               }
             }
           },

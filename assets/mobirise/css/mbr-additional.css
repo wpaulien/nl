@@ -744,6 +744,13 @@ h6,
 #header3-16 H3 {
   color: #c1c1c1;
 }
+#header3-1b .mbr-section-title,
+#header3-1b .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1b H3 {
+  color: #c1c1c1;
+}
 
 #menu-a .hide-buttons .nav-btn {
   display: none !important;
